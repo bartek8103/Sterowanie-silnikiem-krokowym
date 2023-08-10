@@ -1,5 +1,5 @@
 # Sterowanie-silnikiem-krokowym
-Kod źródłowy pracy inżynierskiej, potrzebna jest biblioteka MicroDAQ dla środowiska MATLAB/Simulink.
+Kod źródłowy pracy inżynierskiej, potrzebna jest biblioteka MicroDAQ dla środowiska MATLAB/Simulink. Najnowsza wersja programu posiadająca potrzebną bibliotekę obsługującą urządzenie MicroDAQ, to 2016b.
 
 Plik App1.mlapp jest aplikacją pozwalającą na sterowanie silnikiem krokowym.
 
